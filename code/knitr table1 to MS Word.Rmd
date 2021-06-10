@@ -1,0 +1,24 @@
+---
+title: "knitr Table 1 to Office document"
+author: "Hai Nguyen"
+date: "5/31/2021"
+knit: (function(input, ...) {
+    rmarkdown::render(
+      input,
+      output_file = paste0(
+        xfun::sans_ext(input), '-', Sys.Date(), '.docx'
+      ),
+      output_dir = "../Results"
+    )
+  })
+output: word_document
+---
+
+```{r setup}
+load(file = "../data/tab1.rds")
+```
+```
+
+```{r table1, echo = FALSE, results='asis'}
+knitr::kable(tab1, row.names=FALSE)
+```

@@ -1,0 +1,27 @@
+TY  - JOUR
+JF  - Nutrients
+DO  - 10.3390/nu11112582
+PB  - MDPI AG
+Y1  - 2019
+VL  - 11
+ID  - cdi_doaj_primary_oai_doaj_org_article_2c597438d6bd4fb5b8e16111eac46a22
+N2  - We aimed to assess the association of sleep with metabolic syndrome in the 2013/2014 National Health and Nutrition Examination Survey (NHANES).
+Sample size included 2737 out of 2013 and 2014 NHANES surveys. Cross-sectional study of metabolic syndrome and sleep duration was conducted. Metabolic syndrome was defined according to NCEP ATPIII (National Cholesterol Education Program Adult Treatment Panel III) criteria. Metabolic syndrome severity score was calculated based on actual measurement of each component, adjusted for sex and race. The generalized additive model (GAM) was built to assess the smooth relationship between metabolic syndrome/metabolic syndrome severity score and sleep duration. Adjustment of models were done for age, sex, race, and sitting time. The value of effective degree of freedom (EDF) formed by the GAM model shows the degree of curvature of the relationship. A value of 1 for EDF is translated as the linear shape of relationship. Values larger than one denote a more complex relationship between the response variable and the predicting one.
+There was a U-shaped association between sleep duration and metabolic syndrome in univariable GAM (EDF = 2.43,
+= 0.06) and multivariable GAM (EDF = 2.03,
+= 0.20). The lowest risk of metabolic syndrome was observed in people sleeping 7 hours/night. There was a significant U-shaped association between sleep duration and metabolic syndrome severity score in multivariable GAM (EDF = 2.94,
+= 0.0004). Similarly, the lowest mean metabolic syndrome severity score was observed in people sleeping 7 hours/night. There was an effect modification of sex and sleep duration indicating strong U-shaped relationship of metabolic syndrome severity score and sleep duration in women (EDF = 3.43,
+= 0.00002) and semi-linear association in men (EDF = 1.76,
+= 0.04).
+Short and long sleep duration was associated with higher risk of metabolic syndrome and higher scores of metabolic syndrome severity score in women. Short sleep duration was associated with higher risk of metabolic syndrome and higher scores of metabolic syndrome severity score in men. 
+KW  - Cross-Sectional Studies ; Nutrition Surveys ; Humans ; Middle Aged ; Male ; Young Adult ; Adolescent ; Metabolic Syndrome - physiopathology ; Aged, 80 and over ; Adult ; Female ; Aged ; Sleep - physiology ; Metabolic Syndrome - epidemiology ; Index Medicus ; sleep ; metabolic syndrome ; effect modification ; metabolic syndrome severity score ; generalized additive model ; Review ; Nutrition. Foods and food supply
+AU  - Smiley, Abbas
+AU  - King, David
+AU  - Bidulescu, Aurelian
+SN  - 2072-6643
+CY  - Switzerland
+SP  - 2582
+IS  - 11
+T1  - The Association between Sleep Duration and Metabolic Syndrome: The NHANES 2013/2014
+T2  - Nutrients
+ER  -
